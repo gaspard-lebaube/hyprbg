@@ -77,7 +77,7 @@ plugin {
 ```
 
 > [!NOTE]
-> If you use blur on your windows, please consider that you should probably set decoration:blur:new_optimizations to false.
+> If you use blur on your windows, please consider that you should probably set `decoration:blur:new_optimizations` to false.
 >
 > [Issue #197](https://github.com/hyprwm/hyprland-plugins/issues/197) 
 
